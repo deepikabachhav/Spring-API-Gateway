@@ -1,0 +1,5 @@
+package com.cg.api.ZuulAPIBankApp.filters;
+
+public class PreFilter {
+
+}

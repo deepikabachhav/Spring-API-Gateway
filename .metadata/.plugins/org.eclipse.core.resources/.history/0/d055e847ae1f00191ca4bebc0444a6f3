@@ -1,0 +1,5 @@
+package com.cg.apigateway.HelloWorldService.resource;
+
+public class Resource {
+
+}

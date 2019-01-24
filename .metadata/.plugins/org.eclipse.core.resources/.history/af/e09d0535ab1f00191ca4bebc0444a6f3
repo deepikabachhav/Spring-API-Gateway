@@ -1,0 +1,3 @@
+server.port=8989
+zuul.routes.Helloworld.url=http://localhost:8090
+spring.main.allow-bean-definition-overriding=true
